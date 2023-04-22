@@ -133,7 +133,7 @@ function writeToFile(fileName, data) {
         };
       console.log("Success! You can preview your README.md file");  
     });
-};
+}
 
 // TODO: Create a function to initialize app
 function init() {
