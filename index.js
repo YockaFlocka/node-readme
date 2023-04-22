@@ -13,7 +13,7 @@ const questions = [
             if (your_title) {
                 return true;
             } else {
-                console.log("Please enter a title to continue!")
+                console.log("Please enter a title to continue.")
                 return false;
             }
         } 
@@ -26,7 +26,7 @@ const questions = [
             if (your_description) {
                 return true;
             } else {
-                console.log("Enter a project description!")
+                console.log("Enter a project description.")
                 return false;
             }
         }
@@ -79,7 +79,7 @@ const questions = [
             if (your_contribution) {
                 return true;
             } else {
-                console.log("Provide information on how to contribute to the project!")
+                console.log("Please provide information on how to contribute to the project.")
                 return false;
             }
         }  
