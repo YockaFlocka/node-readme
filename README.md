@@ -30,7 +30,7 @@ Project Usage
 
 Project Contribution
 
-## Testing:
+## Testing
 
 Project Tests
 

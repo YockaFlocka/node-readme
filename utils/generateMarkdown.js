@@ -59,7 +59,7 @@ ${renderLicenseSection(data.license)}
 
 ${data.contribution}
 
-## Testing:
+## Testing
 
 ${data.tests}
 
