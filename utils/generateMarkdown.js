@@ -69,6 +69,12 @@ If you have any questions or concerns you can reach me through GitHub or Email d
 
 - Github: [${data.github}](https://github.com/${data.github})
 - Email: [${data.email}](mailto:${data.email}) 
+
+## Sample Video
+
+Below is a link to the demo of the code:
+
+[Video](https://drive.google.com/file/d/1N-s1pYtAJ9KNR_6ZET4ww_5uiTI76jxe/view)
 `;
 }
 
